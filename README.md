@@ -4,7 +4,7 @@ This site contains a (Linux) release of the algorithm **CFS** for the Knapsack p
 *A new combinatorial branch-and-bound algorithm for the Knapsack Problem with Conflicts* by Stefano Coniglio,  Fabio Furini and Pablo San Segundo. European Journal of Operational Research, 289(2), 435-455 (2021).
 
 
-This software is for academic purposes only, see also the file LICENSE provided.
+This software is for academic purposes only, see also the file LICENSE provided. 
 
 The instances employed in the tests are provided in the **instance* folder, in their original format.
 
