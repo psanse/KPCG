@@ -6,6 +6,6 @@ This site contains a (Linux) release of the algorithm **CFS** for the Knapsack p
 
 This software is for academic purposes only, see also the file LICENSE provided. 
 
-The instances employed in the tests are provided in the *instance* folder, in their original format.
+The instances employed in the tests are provided in the *instances* folder, in their original format.
 
 The Linux binary is available in the *bin* folder (instructions for use are inside), with a few sample instances.
