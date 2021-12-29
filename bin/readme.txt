@@ -22,7 +22,7 @@ Run the binary with the name of the problem instance (in its specific format).
 
 Running:
 
-./CFS <path>BPPC_1_0_10.txt_0.3   
+./CFS <path>C3/BPPC_1_0_10.txt_0.3   
 
 ouptuts the following information in the console:
 
